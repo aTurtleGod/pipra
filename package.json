@@ -1,0 +1,17 @@
+{
+  "name": "pipra",
+  "version": "1.0.1",
+  "description": "A versatile, full-stack CLI framework",
+  "main": "lib/index.js",
+  "bin": {
+    "pipra": "./bin/pipra.js"
+  },
+  "keywords": [
+    "framework",
+    "cli",
+    "full-stack",
+    "nodejs"
+  ],
+  "author": "Turtle2285",
+  "license": "MIT"
+}
